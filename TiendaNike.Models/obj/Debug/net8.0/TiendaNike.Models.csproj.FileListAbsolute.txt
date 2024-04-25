@@ -1,0 +1,12 @@
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Models\bin\Debug\net8.0\TiendaNike.Models.deps.json
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Models\bin\Debug\net8.0\TiendaNike.Models.dll
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Models\bin\Debug\net8.0\TiendaNike.Models.pdb
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Models\obj\Debug\net8.0\TiendaNike.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Models\obj\Debug\net8.0\TiendaNike.Models.AssemblyInfoInputs.cache
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Models\obj\Debug\net8.0\TiendaNike.Models.AssemblyInfo.cs
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Models\obj\Debug\net8.0\TiendaNike.Models.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Models\obj\Debug\net8.0\TiendaNike.Models.dll
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Models\obj\Debug\net8.0\refint\TiendaNike.Models.dll
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Models\obj\Debug\net8.0\TiendaNike.Models.pdb
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Models\obj\Debug\net8.0\ref\TiendaNike.Models.dll
+C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Models\obj\Debug\net8.0\TiendaNike.Models.csproj.AssemblyReference.cache
