@@ -143,7 +143,7 @@ namespace TiendaNike.Areas.Identity.Pages.Account
                     }
                     else
                     {
-                        await _userManager.AddToRoleAsync(user, CNT.Registrado);
+                        await _userManager.AddToRoleAsync(user, CNT.Cliente);
                     }
 
 
