@@ -135,16 +135,21 @@ namespace TiendaNike.Areas.Identity.Pages.Account
                     {
                         await _roleManager.CreateAsync(new IdentityRole(CNT.Administrador));
                         await _roleManager.CreateAsync(new IdentityRole(CNT.Cliente));
+                        await _roleManager.CreateAsync(new IdentityRole(CNT.Registrado));
+
+
                     }
                     string rol = Request.Form["radUsuarioRole"].ToString();
                     if (rol == CNT.Administrador)
                     {
                         await _userManager.AddToRoleAsync(user, CNT.Administrador);
                     }
-                    else
+                    if (rol == CNT.Cliente) 
                     {
-                        await _userManager.AddToRoleAsync(user, CNT.Registrado);
+                        await _userManager.AddToRoleAsync(user, CNT.Cliente);
                     }
+
+
 
 
                     _logger.LogInformation("User created a new account with password.");

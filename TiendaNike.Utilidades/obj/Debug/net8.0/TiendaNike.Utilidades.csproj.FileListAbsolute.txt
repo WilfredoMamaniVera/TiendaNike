@@ -9,3 +9,15 @@ C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\Ti
 C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\refint\TiendaNike.Utilidades.dll
 C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\TiendaNike.Utilidades.pdb
 C:\Users\wilfr\source\repos\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\ref\TiendaNike.Utilidades.dll
+C:\Users\anahi\Downloads\TiendaNike\TiendaNike.Utilidades\bin\Debug\net8.0\TiendaNike.Utilidades.deps.json
+C:\Users\anahi\Downloads\TiendaNike\TiendaNike.Utilidades\bin\Debug\net8.0\TiendaNike.Utilidades.dll
+C:\Users\anahi\Downloads\TiendaNike\TiendaNike.Utilidades\bin\Debug\net8.0\TiendaNike.Utilidades.pdb
+C:\Users\anahi\Downloads\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\TiendaNike.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anahi\Downloads\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\TiendaNike.Utilidades.AssemblyInfoInputs.cache
+C:\Users\anahi\Downloads\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\TiendaNike.Utilidades.AssemblyInfo.cs
+C:\Users\anahi\Downloads\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\TiendaNike.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\anahi\Downloads\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\TiendaNike.Utilidades.sourcelink.json
+C:\Users\anahi\Downloads\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\TiendaNike.Utilidades.dll
+C:\Users\anahi\Downloads\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\refint\TiendaNike.Utilidades.dll
+C:\Users\anahi\Downloads\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\TiendaNike.Utilidades.pdb
+C:\Users\anahi\Downloads\TiendaNike\TiendaNike.Utilidades\obj\Debug\net8.0\ref\TiendaNike.Utilidades.dll

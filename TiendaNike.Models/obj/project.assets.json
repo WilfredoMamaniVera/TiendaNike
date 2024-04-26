@@ -559,19 +559,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wilfr\\.nuget\\packages\\": {}
+    "C:\\Users\\anahi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wilfr\\source\\repos\\TiendaNike\\TiendaNike.Models\\TiendaNike.Models.csproj",
+      "projectUniqueName": "C:\\Users\\anahi\\Downloads\\TiendaNike\\TiendaNike.Models\\TiendaNike.Models.csproj",
       "projectName": "TiendaNike.Models",
-      "projectPath": "C:\\Users\\wilfr\\source\\repos\\TiendaNike\\TiendaNike.Models\\TiendaNike.Models.csproj",
-      "packagesPath": "C:\\Users\\wilfr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wilfr\\source\\repos\\TiendaNike\\TiendaNike.Models\\obj\\",
+      "projectPath": "C:\\Users\\anahi\\Downloads\\TiendaNike\\TiendaNike.Models\\TiendaNike.Models.csproj",
+      "packagesPath": "C:\\Users\\anahi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\anahi\\Downloads\\TiendaNike\\TiendaNike.Models\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\wilfr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\anahi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wilfr\\source\\repos\\TiendaNike\\TiendaNike.Utilidades\\TiendaNike.Utilidades.csproj": {}
+    "C:\\Users\\anahi\\Downloads\\TiendaNike\\TiendaNike.Utilidades\\TiendaNike.Utilidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wilfr\\source\\repos\\TiendaNike\\TiendaNike.Utilidades\\TiendaNike.Utilidades.csproj": {
+    "C:\\Users\\anahi\\Downloads\\TiendaNike\\TiendaNike.Utilidades\\TiendaNike.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wilfr\\source\\repos\\TiendaNike\\TiendaNike.Utilidades\\TiendaNike.Utilidades.csproj",
+        "projectUniqueName": "C:\\Users\\anahi\\Downloads\\TiendaNike\\TiendaNike.Utilidades\\TiendaNike.Utilidades.csproj",
         "projectName": "TiendaNike.Utilidades",
-        "projectPath": "C:\\Users\\wilfr\\source\\repos\\TiendaNike\\TiendaNike.Utilidades\\TiendaNike.Utilidades.csproj",
-        "packagesPath": "C:\\Users\\wilfr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wilfr\\source\\repos\\TiendaNike\\TiendaNike.Utilidades\\obj\\",
+        "projectPath": "C:\\Users\\anahi\\Downloads\\TiendaNike\\TiendaNike.Utilidades\\TiendaNike.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\anahi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anahi\\Downloads\\TiendaNike\\TiendaNike.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\wilfr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\anahi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
