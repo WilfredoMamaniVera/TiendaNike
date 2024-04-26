@@ -87,15 +87,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TiendaNike.AccesoDatos",
+              "Title": "TiendaNike.AccesoDatos.csproj",
               "DocumentMoniker": "C:\\Users\\anahi\\Downloads\\TiendaNike\\TiendaNike.AccesoDatos\\TiendaNike.AccesoDatos.csproj",
               "RelativeDocumentMoniker": "TiendaNike.AccesoDatos\\TiendaNike.AccesoDatos.csproj",
               "ToolTip": "C:\\Users\\anahi\\Downloads\\TiendaNike\\TiendaNike.AccesoDatos\\TiendaNike.AccesoDatos.csproj",
               "RelativeToolTip": "TiendaNike.AccesoDatos\\TiendaNike.AccesoDatos.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-26T01:14:28.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T01:14:28.466Z"
             },
             {
               "$type": "Document",
@@ -141,7 +140,7 @@
               "RelativeDocumentMoniker": "TiendaNike\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\anahi\\Downloads\\TiendaNike\\TiendaNike\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TiendaNike\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-25T19:55:05.966Z",
               "EditorCaption": ""
